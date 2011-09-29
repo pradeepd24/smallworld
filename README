@@ -1,0 +1,11 @@
+To compile and build the executable:
+
+gcc -o smallworld smallworld.c
+
+To execute:
+
+./smallworld input_filename
+
+
+input_filename should adhere to the specifications given here.
+http://www.facebook.com/careers/puzzles.php?puzzle_id=6
